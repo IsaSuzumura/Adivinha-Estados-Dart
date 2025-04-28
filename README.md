@@ -34,3 +34,7 @@ Placar Final
 ![image](https://github.com/user-attachments/assets/d0d2a666-baf1-4445-8a74-09f2d6ebd245)
 
 Note, que o jogo tem um sistema de pontuação e também um crônometro para deixar mais divertido. E também, um sistema de escolha aleatória do estado escolhido que não permite repetições até o final da partida (limitado a 10 rodadas).
+
+# Download do APK
+
+https://drive.google.com/file/d/1Ce7Uv4DxSAOQ7W80cfHlJL3e1akL1O4y/view?usp=sharing
