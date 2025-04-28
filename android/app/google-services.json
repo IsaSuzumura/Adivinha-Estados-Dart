@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "169209191608",
+    "project_id": "adivinha-estados-168bf",
+    "storage_bucket": "adivinha-estados-168bf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169209191608:android:88a88cbda18e750f66284d",
+        "android_client_info": {
+          "package_name": "com.example.adivinha_estados"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLlD7gM3L9FTUkdN7eMp7tLEJw_Zqjksc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
